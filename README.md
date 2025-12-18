@@ -71,24 +71,6 @@ Future improvements include Precision, Recall, F1-score, and ROC-AUC evaluation.
 
 ---
 
-## Project Structure
-Credit-Card-Fraud-Detection/
-│
-├── data/
-│   └── creditcard.csv
-│
-├── notebooks/
-│   └── Credit_Card_Fraud_Detection.ipynb
-│
-├── src/
-│   └── model.py
-│
-├── README.md
-│
-├── requirements.txt
-
----
-
 ## Authors
 **Aniket Kumar**, **Param Vansh Singh** & **Krishnaveni**
 
